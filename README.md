@@ -101,8 +101,8 @@ Main tables used:
 
 ## Dashboard Preview
 
-![Dashboard Preview](<img width="709" height="398" alt="image" src="https://github.com/user-attachments/assets/606160f4-60b4-4373-a5e8-15b042609e90" />
-)
+<img width="706" height="397" alt="image" src="https://github.com/user-attachments/assets/3d532a1f-d58a-4654-8f3e-8abcb3dd3fcb" />
+
 
 ---
 
