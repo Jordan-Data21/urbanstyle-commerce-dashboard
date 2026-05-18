@@ -77,6 +77,10 @@ Year slicer allowing users to dynamically explore the data.
 ## Dataset
 
 Dataset used: Brazilian E-Commerce Public Dataset by Olist.
+Due to GitHub file size limitations, the original dataset was not uploaded to this repository.
+
+Dataset source:  
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 Main tables used:
 - Orders
@@ -103,7 +107,12 @@ Main tables used:
 
 <img width="706" height="397" alt="image" src="https://github.com/user-attachments/assets/3d532a1f-d58a-4654-8f3e-8abcb3dd3fcb" />
 
+# Power BI File
 
+The original `.pbix` file exceeds GitHub's upload size limit.
+
+You can download the Power BI file here:
+[Download PBIX File](https://drive.google.com/file/d/18hJZqRC_hEcPJYwGbiFn6OtJoiaRm11x/view?usp=sharing)
 ---
 
 ## Author
